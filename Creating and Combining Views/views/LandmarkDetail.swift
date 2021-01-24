@@ -2,7 +2,7 @@
 //  LandmarkDetail.swift
 //  Creating and Combining Views
 //
-//  Created by chenzhizs on 2021/01/24.
+//  Created by chenzhizs on 2021/01/24. test
 //
 
 import SwiftUI
